@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+data/raw/scene/LO82200692018233.tif
+*.tif
+*.shp
+*.prj
+*.shx
+*.qpj
+*.cpg
+*.dbf
